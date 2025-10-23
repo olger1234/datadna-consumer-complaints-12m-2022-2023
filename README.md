@@ -7,7 +7,7 @@ Single-page Power BI (Sep 2022–Aug 2023). Index vs Timely, Hotspots, Trend, Pr
 **Window:** Sep 2022 – Aug 2023  
 **Tools:** Power BI + ZoomCharts Drill Down PRO (Scatter, Shape/Map, TimeSeries, Combo)
 
-![Preview](assets/preview.jpg)
+![Preview](preview.jpg)
 
 **What’s inside**
 - Complaint Index vs Timely (watchlist = index ≥ P90 & timely ≤ median)
@@ -18,3 +18,5 @@ Single-page Power BI (Sep 2022–Aug 2023). Index vs Timely, Hotspots, Trend, Pr
 
 **Open the file**
 Download the PBIX from the *Releases* section (ZoomCharts license/theme not included; Desktop only).
+
+[Download the PBIX](https://github.com/olger1234/datadna-consumer-complaints-12m-2022-2023/releases/latest/download/DataDNA_CFPB_12M_202209-202308.pbix)
